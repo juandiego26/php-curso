@@ -1,0 +1,15 @@
+### PHP LANGUAGE ###
+
+# CUSTOM FILES
+
+vendor/
+.env
+blog/public/images/
+.htaccess
+composer.lock
+composer.phar
+config.php
+
+
+# END OF CUSTOM FILES
+
